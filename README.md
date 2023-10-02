@@ -1,4 +1,6 @@
-# brq_challenge pensado como um aplicativo mobile. Visualização deve ser feita em 968px ou menos.
+# brq_challenge
+
+# pensado como um aplicativo mobile. Visualização deve ser feita em 968px ou menos.
 
 ![home](https://github.com/de-carvalho/brq_challenge/assets/54815235/7a3943b4-a719-4bd4-ac4c-c513c20c7081)
 
